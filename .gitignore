@@ -2,6 +2,7 @@
 .cursor
 .env*.local
 node_modules
+coverage
 .next
 out
 dist
